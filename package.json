@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/image": "1.2.0",
+    "@nuxtjs/color-mode": "3.3.2",
+    "@rollup/wasm-node": "^4.12.0",
+    "nuxt": "^3.10.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "sharp": "0.32.3"
+  },
+  "resolutions": {
+    "rollup": "npm:@rollup/wasm-node"
+  }
+}
