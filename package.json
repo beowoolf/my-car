@@ -10,10 +10,10 @@
   "dependencies": {
     "@nuxt/image": "1.2.0",
     "@nuxtjs/color-mode": "3.5.2",
-    "@rollup/wasm-node": "^4.25.0",
+    "@rollup/wasm-node": "^4.29.1",
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
-    "nuxt": "^3.13.2",
+    "nuxt": "3.14.1592",
     "sharp": "0.32.3"
   },
   "resolutions": {
